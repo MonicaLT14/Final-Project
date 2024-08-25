@@ -1,0 +1,14 @@
+client\agency\AgencyApplication.class
+client\agency\service\AgencyService.class
+client\agency\entity\Provider.class
+client\agency\entity\Agency.class
+client\agency\entity\Client.class
+client\agency\controller\error\GlobalErrorHandler.class
+client\agency\controller\model\AgencyClient.class
+client\agency\controller\model\AgencyData.class
+client\agency\dao\ClientDao.class
+client\agency\dao\ProviderDao.class
+client\agency\controller\model\AgencyProvider.class
+client\agency\controller\AgencyController.class
+client\agency\dao\AgencyDao.class
+client\agency\controller\model\AgencyClient$ClientAgency.class
